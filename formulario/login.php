@@ -16,6 +16,7 @@
 	  font-size: 16px; /* 16px = 12pt */
 	}
 	</style>
+
 <body>
 			<form class="centro">
 		  <div class="form-group">
