@@ -40,7 +40,6 @@
 			    <label for="exampleInputPassword1">Confirmar Senha</label>
 			    <input type="password" class="form-control" name="senha" id="exampleInputPassword1">
 		  	</div>
-
 		  	<div class="form-group">
 			  <input type="checkbox" class="form-check-input" id="exampleCheck1">
 			  <label class="form-check-label" for="exampleCheck1">Desejo receber promoções no e-mail</label>
