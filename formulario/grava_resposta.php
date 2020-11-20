@@ -17,6 +17,6 @@ if (mysqli_query($conn, $sql)) {
 	echo "Deu erro: " . $sql . "<br>" . mysqli_error($conn);
 }
 //mysqli_close($conn);
-?>
-</body>
+
+	</body>
 </html>
