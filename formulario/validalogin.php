@@ -20,4 +20,5 @@ if ($consulta->num_rows > 0) {
 	echo "<script>alert('Credenciais Invalidas'); window.location = 'login.php';</script>";
 }
 
+
 ?>
