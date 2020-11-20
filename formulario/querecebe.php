@@ -18,5 +18,6 @@ if (mysqli_query($conn, $sql)) {
 }
 mysqli_close($conn);
 ?>
+	
 </body>
 </html>
